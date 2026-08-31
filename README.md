@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @minasami
-- 👀 I’m interested in finding the purpose of my life
+# Mina Sami Tawfik Saad
 
-- 🌱 I’m currently learning what makes my work better
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
- WhatsApp +0201284590503
-<!---
-minasami/minasami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Licensed pharmacist building digital infrastructure for medicine access in Egypt and the region.
+
+**Live product:** [medicinesupport.app](https://medicinesupport.app)  
+**Code:** [medicine-support-hub](https://github.com/minasami/medicine-support-hub)  
+**Site:** [minasami.github.io](https://minasami.github.io)  
+**LinkedIn:** [linkedin.com/in/jesussavedmina](https://www.linkedin.com/in/jesussavedmina)  
+**Email:** minasamitawfiksaad@gmail.com
+
+## What I work on
+
+Medicine Support Hub is a multi-tenant platform for NGOs, pharmacies, pharma companies, and public programs to coordinate medicine information, company representation, and patient-support workflows — from catalog and claims through organization workspaces.
+
+I focus on the bridge between clinical / pharmacy operations and the product: roles, membership, verified company reps, medicine contributions, and recruiter-pays vacancy flows that keep the candidate side free.
+
+## Stack I use on the hub
+
+React · TypeScript · Vite · Tailwind · shadcn/ui · Appwrite · Postgres / RLS patterns · Stripe (company services)
+
+## Currently
+
+Senior Care Coordinator — Patient & Account Portfolio (EVApharma & Armanious Foundation) · based in Giza / Cairo · open to digital-health product and solution roles.
