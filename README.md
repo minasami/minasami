@@ -5,6 +5,7 @@ Licensed pharmacist building digital infrastructure for medicine access in Egypt
 **Live product:** [medicinesupport.app](https://medicinesupport.app)  
 **Code:** [medicine-support-hub](https://github.com/minasami/medicine-support-hub)  
 **Site:** [minasami.github.io](https://minasami.github.io)  
+**Sponsors:** [github.com/sponsors/minasami](https://github.com/sponsors/minasami)  
 **LinkedIn:** [linkedin.com/in/jesussavedmina](https://www.linkedin.com/in/jesussavedmina)  
 **Email:** minasamitawfiksaad@gmail.com
 
