@@ -1,24 +1,27 @@
 # Mina Sami Tawfik Saad
 
-Licensed pharmacist building digital infrastructure for medicine access in Egypt and the region.
+Licensed pharmacist (BPharm, Certified Specialty Pharmacist) in Giza / Cairo.
+I coordinate healthcare-support programmes and practice file-review habits that map to TPA precertification and claims desks.
 
-**Live product:** [medicinesupport.app](https://medicinesupport.app)  
-**Code:** [medicine-support-hub](https://github.com/minasami/medicine-support-hub)  
+I do **not** hold a TPA, utilization-management, or Head of Delivery title. PMP is in progress, not awarded.
+
 **Site:** [minasami.github.io](https://minasami.github.io)  
-**Sponsors:** [github.com/sponsors/minasami](https://github.com/sponsors/minasami)  
+**Live project:** [medicine-support-hub](https://github.com/minasami/medicine-support-hub) · [medicinesupport.app](https://medicinesupport.app)  
+**TPA practice kit (synthetic):** [medical-assistance-system](https://github.com/minasami/medical-assistance-system)  
 **LinkedIn:** [linkedin.com/in/jesussavedmina](https://www.linkedin.com/in/jesussavedmina)  
 **Email:** minasamitawfiksaad@gmail.com
 
-## What I work on
+## What to open first
 
-Medicine Support Hub is a multi-tenant platform for NGOs, pharmacies, pharma companies, and public programs to coordinate medicine information, company representation, and patient-support workflows — from catalog and claims through organization workspaces.
+| Repo | What it is |
+|---|---|
+| [medicine-support-hub](https://github.com/minasami/medicine-support-hub) | Active product. Catalog + reviewer queue pilot. |
+| [medical-assistance-system](https://github.com/minasami/medical-assistance-system) | Four-gate precert engine on invented tickets. Tests included. |
+| [minasami.github.io](https://github.com/minasami/minasami.github.io) | Public CV site. |
 
-I focus on the bridge between clinical / pharmacy operations and the product: roles, membership, verified company reps, medicine contributions, and recruiter-pays vacancy flows that keep the candidate side free.
-
-## Stack I use on the hub
-
-React · TypeScript · Vite · Tailwind · shadcn/ui · Appwrite · Postgres / RLS patterns · Stripe (company services)
+Older empty or AI-Studio sketch repos on this account are not production systems. Pin the three rows above.
 
 ## Currently
 
-Senior Care Coordinator — Patient & Account Portfolio (EVApharma & Armanious Foundation) · based in Giza / Cairo · open to digital-health product and solution roles.
+Senior Care Coordinator — Patient & Account Portfolio (EVApharma & Armanious Foundation).  
+Open to Cairo hybrid TPA / precertification / medical-approval officer seats.
