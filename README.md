@@ -7,7 +7,7 @@ I do **not** hold a TPA, utilization-management, or Head of Delivery title. PMP 
 
 **Site:** [minasami.github.io](https://minasami.github.io)  
 **Live project:** [medicine-support-hub](https://github.com/minasami/medicine-support-hub) · [medicinesupport.app](https://medicinesupport.app)  
-**TPA practice kit (synthetic):** [medical-assistance-system](https://github.com/minasami/medical-assistance-system)  
+**TPA practice kit (synthetic):** [practice/tpa](https://github.com/minasami/medicine-support-hub/tree/main/practice/tpa)  
 **LinkedIn:** [linkedin.com/in/jesussavedmina](https://www.linkedin.com/in/jesussavedmina)  
 **Email:** minasamitawfiksaad@gmail.com
 
@@ -15,11 +15,10 @@ I do **not** hold a TPA, utilization-management, or Head of Delivery title. PMP 
 
 | Repo | What it is |
 |---|---|
-| [medicine-support-hub](https://github.com/minasami/medicine-support-hub) | Active product. Catalog + reviewer queue pilot. |
-| [medical-assistance-system](https://github.com/minasami/medical-assistance-system) | Four-gate precert engine on invented tickets. Tests included. |
+| [medicine-support-hub](https://github.com/minasami/medicine-support-hub) | Active product. Catalog + reviewer queue + practice kit under `practice/tpa`. |
 | [minasami.github.io](https://github.com/minasami/minasami.github.io) | Public CV site. |
 
-Older empty or AI-Studio sketch repos on this account are not production systems. Pin the three rows above.
+Older empty or AI-Studio sketch repos on this account are not production systems. Pin the Hub and the site.
 
 ## Currently
 
